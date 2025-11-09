@@ -1,4 +1,5 @@
-<img width="528" height="528" alt="Perplexity_icon" src="https://github.com/user-attachments/assets/97b63792-b8e5-4d8d-8b99-3f15ddabc6ca" />
+![GxjIMTIbUAAki4p](https://github.com/user-attachments/assets/1b44c978-adac-47f3-aa1f-e755fa751920)
+
 
 # perplexity
 Assista: Séries, Filmes, TV
