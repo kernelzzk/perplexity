@@ -108,6 +108,412 @@ http://lvbr.top/live/cristian/cristian/2599573.m3u8
 
 
 
+#EXTINF:-1 tvg-id="rootaws" group-title="" tvg-name=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHfrAigET0ke6Gk0LhBrwV2UrBlsVFJfWvfjjNkkCiu4C2sljtbiFd0JD&s=10",
+http://up.kiwi:80/19998899924/34939156
+
+
+
+
+<!DOCTYPE html><html lang="nl" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="origin-trial" data-feature="EME Extension - Policy Check" data-expires="2018-11-26" content="Aob+++752GiUzm1RNSIkM9TINnQDxTlxz02v8hFJK/uGO2hmXnJqH8c/ZpI05b2nLsHDhGO3Ce2zXJUFQmO7jA4AAAB1eyJvcmlnaW4iOiJodHRwczovL25ldGZsaXguY29tOjQ0MyIsImZlYXR1cmUiOiJFbmNyeXB0ZWRNZWRpYUhkY3BQb2xpY3lDaGVjayIsImV4cGlyeSI6MTU0MzI0MzQyNCwiaXNTdWJkb21haW4iOnRydWV9"><meta http-equiv="origin-trial" data-feature="LocalFolder" data-expires="2025-06-06" content="A4kVXP34D+/QxH4FdxE9rIGQJrtL8y0lfWbBzSw70h3GzE88EYnBg25g0qHYrb1CfUCGfS7NddPBM7pJ4eyCGHAAAABpeyJvcmlnaW4iOiJodHRwczovL25ldGZsaXguY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJBcHBMb2NhbEZvbGRlciIsImV4cGlyeSI6MTc0OTIzMjM1NCwiaXNTdWJkb21haW4iOnRydWV9"><title>Netflix</title><link rel="preload" href="https://assets.nflxext.com/web/ffe/wp/ui/clcs/login/client.e84d9979422afca2fafa.js" as="script" crossorigin="anonymous" integrity="sha512-Jd8D4zzkxg1LQIqv8Ti7MxO77KPh/0HlwMpgcxDkJ5inWLJWhg5B7WwhMHPi33VF3H/0JziSG0TTYEWDZbDL6g=="><script type="text/javascript">(function () { var request = new XMLHttpRequest(); request.open('GET', 'https://logs.netflix.com/log/wwwhead/cl/2?fetchType=js&eventType=WebsiteDetect&modalView=clcsLayout', true); request.withCredentials = true; request.send(); var request2 = new XMLHttpRequest(); request2.open('GET', 'https://logs.netflix.com/log/wwwhead/cl/2?fetchType=js&eventType=WebsiteScreen' + '&winw=' + window.outerWidth + '&winh=' + window.outerHeight + '&screenw=' + window.innerWidth + '&screenh=' + window.innerHeight + '&ratio=' + ( window.devicePixelRatio ? window.devicePixelRatio : 'unsupported' ), true); request2.withCredentials = true; request2.send(); })();</script><script type="text/javascript" charset="UTF-8" src="js/otSDKStub.js" data-document-language="true" data-domain-script="87b6a5c0-0104-4e96-a291-092c11350111"></script><script type="text/javascript">function OptanonWrapper() {};</script><meta content="kijk films, films online, kijk tv, online tv, series online, kijk series, stream films, stream tv, direct streamen, kijk online, films, kijk films Nederland, kijk tv online, geen download, volledige speelfilms" name="keywords"><meta content="Kijk Netflix-series en -films online of stream rechtstreeks op je smart-tv, gameconsole, pc, Mac, mobiele apparaat, tablet en meer." name="description"><meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no"><meta name="apple-touch-icon" content="https://assets.nflxext.com/en_us/layout/ecweb/netflix-app-icon_152.jpg"><link type="text/css" rel="stylesheet" href="css/shared.fd4b86a52de5dc09baaa.css" data-uia="botLink"><link rel="shortcut icon" href="images/nficon2023.ico"><link rel="apple-touch-icon" href="images/nficon2016.png"><meta property="og:description" content="Kijk Netflix-series en -films online of stream rechtstreeks op je smart-tv, gameconsole, pc, Mac, mobiele apparaat, tablet en meer."><meta property="al:ios:url" content="nflx://www.netflix.com/login?serverState=%7B%22realm%22%3A%22growth%22%2C%22name%22%3A%22IDENTIFICATION%22%2C%22clcsSessionId%22%3A%22b4fc53cb-249c-42b6-8e89-4ec0667f3d05%22%2C%22sessionContext%22%3A%7B%22session-breadcrumbs%22%3A%7B%22funnel_name%22%3A%22loginWeb%22%7D%7D%7D&locale=nl-NL"><meta property="al:ios:app_store_id" content="363590051"><meta property="al:ios:app_name" content="Netflix"><meta property="al:android:url" content="nflx://www.netflix.com/login?serverState=%7B%22realm%22%3A%22growth%22%2C%22name%22%3A%22IDENTIFICATION%22%2C%22clcsSessionId%22%3A%22b4fc53cb-249c-42b6-8e89-4ec0667f3d05%22%2C%22sessionContext%22%3A%7B%22session-breadcrumbs%22%3A%7B%22funnel_name%22%3A%22loginWeb%22%7D%7D%7D&locale=nl-NL"><meta property="al:android:package" content="com.netflix.mediaclient"><meta property="al:android:app_name" content="Netflix"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@netflix"><script>/* Polyfill service v4.8.0
+ * For detailed credits and licence information see https://github.com/financial-times/polyfill-service.
+ * 
+ * Features requested: default,dom4,es5,es2015,es2016,es2017,es2018,es2019,es2020,es2021,es2022,es2023,fetch,matchMedia,Intl.DateTimeFormat.prototype.formatToParts,Intl.DateTimeFormat.~locale.nl,Intl.DateTimeFormat.~timeZone.all,Intl.DateTimeFormat.~timeZone.golden,Intl.DisplayNames.~locale.nl,Intl.ListFormat.~locale.nl,Intl.Locale,Intl.NumberFormat.~locale.nl,Intl.PluralRules.~locale.nl,Intl.RelativeTimeFormat.~locale.nl,Intl.getCanonicalLocales,console,console.error,IntersectionObserver,IntersectionObserverEntry,requestIdleCallback,ResizeObserver
+ * 
+ * - requestIdleCallback, License: MIT */
+
+(function(self, undefined) {
+if (!("requestIdleCallback"in self
+)) {
+
+// requestIdleCallback
+(function (global) {
+
+	// The requestIdleCallback polyfill builds on ReactScheduler, which
+	// calculates the browser's framerate and seperates the idle call into a
+	// seperate tick:
+	// "It works by scheduling a requestAnimationFrame, storing the time for the
+	// start of the frame, then scheduling a postMessage which gets scheduled
+	// after paint. Within the postMessage handler do as much work as possible
+	// until time + frame rate. By separating the idle call into a separate
+	// event tick we ensure that layout, paint and other browser work is counted
+	// against the available time. The frame rate is dynamically adjusted."
+	// https://github.com/facebook/react/blob/43a137d9c13064b530d95ba51138ec1607de2c99/packages/react-scheduler/src/ReactScheduler.js
+
+	// MIT License
+	//
+	// Copyright (c) 2013-present, Facebook, Inc.
+	//
+	// Permission is hereby granted, free of charge, to any person obtaining a copy
+	// of this software and associated documentation files (the "Software"), to deal
+	// in the Software without restriction, including without limitation the rights
+	// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	// copies of the Software, and to permit persons to whom the Software is
+	// furnished to do so, subject to the following conditions:
+	//
+	// The above copyright notice and this permission notice shall be included in all
+	// copies or substantial portions of the Software.
+	//
+	// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	// SOFTWARE.
+
+	var idleCallbackIdentifier = 0;
+	var scheduledCallbacks = [];
+	var timedOutCallbacks = [];
+	var nestedCallbacks = [];
+
+	var isIdleScheduled = false;
+	var isCallbackRunning = false;
+	var allowIdleDeadlineConstructor = false;
+
+	var scheduledAnimationFrameId;
+	var scheduledAnimationFrameTimeout;
+
+	// We start out assuming that we run at 30fps (1 frame per 33.3ms) but then
+	// the heuristic tracking will adjust this value to a faster fps if we get
+	// more frequent animation frames.
+	var previousFrameTime = 33;
+	var activeFrameTime = 33;
+
+	var frameDeadline = 0;
+
+	var port; // The object to `postMessage` on.
+	var messageKey;
+	var messageChannelSupport = typeof MessageChannel === 'object';
+
+	// We use the postMessage trick to defer idle work until after the repaint.
+	if (messageChannelSupport) {
+		// Use MessageChannel if supported.
+		var messageChannel = new MessageChannel();
+		port = messageChannel.port2;
+		messageChannel.port1.onmessage = processIdleCallbacks;
+	} else {
+		// TODO add `MessageChannel` polyfill to polyfill.io.
+		// Otherwise fallback to document messaging. It is less efficient as
+		// all message event listeners within a project will be called each
+		// frame whilst idle callbacks remain.
+		messageKey = 'polyfillIdleCallback' + Math.random().toString(36).slice(2);
+		port = window;
+		window.addEventListener('message', function (event) {
+			// some engines return true when a strict comparison with `window` is made.
+			if (event.source != window || event.data !== messageKey) {
+				return;
+			}
+			processIdleCallbacks();
+		});
+	}
+
+	function timeRemaining() {
+		// Defensive coding. Time remaining should never be more than 50ms.
+		// This is sometimes the case in Safari 9.
+		return Math.min(frameDeadline - performance.now(), 50);
+	}
+
+	function getDeadline(callbackObject) {
+		var timeout = callbackObject.options.timeout;
+		var added = callbackObject.added;
+		// Create deadline from global.IdleDeadline.
+		// Turn off constructor error to do so.
+		allowIdleDeadlineConstructor = true;
+		var deadline = new global.IdleDeadline();
+		allowIdleDeadlineConstructor = false;
+		// Set deadline properties.
+		Object.defineProperty(deadline, 'didTimeout', {
+			value: timeout ? added + timeout < performance.now() : false
+		});
+		Object.defineProperty(deadline, 'timeRemaining', {
+			value: timeRemaining
+		});
+		return deadline;
+	}
+
+	function runCallback(callbackObject) {
+		var deadline = getDeadline(callbackObject);
+		var callback = callbackObject.callback;
+		callback(deadline);
+	}
+
+	function scheduleIdleWork() {
+		if (!isIdleScheduled) {
+			isIdleScheduled = true;
+			try {
+				// Safari 9 throws "TypeError: Value is not a sequence"
+				port.postMessage(messageKey, '*');
+			} catch (error) {
+				port.postMessage(messageKey);
+			}
+		}
+	}
+
+	function scheduleAnimationFrame() {
+		// Schedule animation frame to calculate the browsers framerate.
+		if (!scheduledAnimationFrameId) {
+			// Request the animation frame.
+			scheduledAnimationFrameId = requestAnimationFrame(function (rafTime) {
+				// Remove timeout fallback, as the animation frame run successfully.
+				scheduledAnimationFrameId = undefined;
+				clearTimeout(scheduledAnimationFrameTimeout);
+				// Safari 9 gives a `rafTime` far into the future.
+				// It appears to be (now + (frame rate) * 2).
+				var futureRafTime = rafTime - activeFrameTime > performance.now();
+				if (futureRafTime) {
+					rafTime = rafTime - (activeFrameTime * 2);
+				}
+				// Calculate the frame rate.
+				var nextFrameTime = rafTime - frameDeadline + activeFrameTime;
+				if (nextFrameTime < activeFrameTime && previousFrameTime < activeFrameTime) {
+					if (nextFrameTime < 8) {
+						// Defensive coding. We don't support higher frame rates than 120hz.
+						// If we get lower than that, it is probably a bug.
+						nextFrameTime = 8;
+					}
+					// If one frame goes long, then the next one can be short to catch up.
+					// If two frames are short in a row, then that's an indication that we
+					// actually have a higher frame rate than what we're currently optimizing.
+					// We adjust our heuristic dynamically accordingly. For example, if we're
+					// running on 120hz display or 90hz VR display.
+					// Take the max of the two in case one of them was an anomaly due to
+					// missed frame deadlines.
+					activeFrameTime = Math.max(previousFrameTime, nextFrameTime);
+				} else {
+					previousFrameTime = nextFrameTime;
+				}
+				// Update the deadline we have to run idle callbacks.
+				frameDeadline = rafTime + activeFrameTime;
+				// Schedule idle callback work.
+				scheduleIdleWork();
+			});
+
+			// If the animation frame is not called, for example if the tab is in the
+			// background, schedule work should still be run. So set a timeout as a
+			// fallback.
+			scheduledAnimationFrameTimeout = setTimeout(function () {
+				// Cancel the animation frame which failed to run timely.
+				cancelAnimationFrame(scheduledAnimationFrameId);
+				scheduledAnimationFrameId = undefined;
+				// Update the deadline we have to run idle callbacks.
+				frameDeadline = performance.now() + 50;
+				// Run callbacks.
+				scheduleIdleWork();
+			}, 100);
+		}
+	}
+
+	function processIdleCallbacks () {
+		isIdleScheduled = false;
+		isCallbackRunning = true;
+
+		// Move timed-out callbacks from the scheduled array.
+		timedOutCallbacks = scheduledCallbacks.filter(function (callbackObject) {
+			if (callbackObject.options.timeout !== undefined) {
+				var deadline = getDeadline(callbackObject);
+				return deadline.didTimeout;
+			}
+			return false;
+		});
+
+		scheduledCallbacks = scheduledCallbacks.filter(function (callbackObject) {
+			return !timedOutCallbacks.includes(callbackObject);
+		});
+
+		// Of the timed-out callbacks, order by those with the lowest timeout.
+		timedOutCallbacks.sort(function (a, b) {
+			return a.options.timeout - b.options.timeout;
+		});
+
+		// Run all timed-out callbacks, regardless of the deadline time
+		// remaining.
+		while (timedOutCallbacks.length > 0) {
+			var callbackObject = timedOutCallbacks.shift();
+			runCallback(callbackObject);
+		}
+
+		// While there is deadline time remaining, run remaining scheduled
+		// callbacks.
+		while (scheduledCallbacks.length > 0 && timeRemaining() > 0) {
+			callbackObject = scheduledCallbacks.shift();
+			runCallback(callbackObject);
+		}
+
+		// Schedule callbacks added during this idle period to run in the next
+		// idle period  (nested callbacks).
+		if (nestedCallbacks.length > 0) {
+			scheduledCallbacks = scheduledCallbacks.concat(nestedCallbacks);
+			nestedCallbacks = [];
+		}
+
+		// Schedule any remaining callbacks for a future idle period.
+		if (scheduledCallbacks.length > 0) {
+			scheduleAnimationFrame();
+		}
+
+		isCallbackRunning = false;
+	}
+
+	/**
+	* @param {function} callback
+	* @return {number} - The idle callback identifier.
+	*/
+	global.requestIdleCallback = function requestIdleCallback(callback, options) {
+		var id = ++idleCallbackIdentifier;
+
+		// Create an object to store the callback, its options, and the time it
+		// was added.
+		var callbackObject = {
+			id: id,
+			callback: callback,
+			options: options || {},
+			added: performance.now()
+		};
+
+		// If an idle callback is running already this is a nested idle callback
+		// and should be scheduled for a different period. If no idle callback
+		// is running schedule immediately.
+		if (isCallbackRunning) {
+			nestedCallbacks.push(callbackObject);
+		} else {
+			scheduledCallbacks.push(callbackObject);
+		}
+
+		// Run scheduled idle callbacks after the next animation frame.
+		scheduleAnimationFrame();
+
+		// Return the callbacks identifier.
+		return id;
+	};
+
+	/**
+	* @param {number} - The idle callback identifier to cancel.
+	* @return {undefined}
+	*/
+	global.cancelIdleCallback = function cancelIdleCallback(id) {
+		if(arguments.length === 0) {
+			throw new TypeError('cancelIdleCallback requires at least 1 argument');
+		}
+
+		var callbackFilter = function (callbackObject) {
+			return callbackObject.id !== id;
+		};
+		// Find and remove the callback from the scheduled idle callbacks,
+		// and nested callbacks (cancelIdleCallback may be called in an idle period).
+		scheduledCallbacks = scheduledCallbacks.filter(callbackFilter);
+		nestedCallbacks = nestedCallbacks.filter(callbackFilter);
+	};
+
+	/** IdleDeadline Polyfill
+	*  @example
+	*      requestIdleCallback(function (deadline) {
+	*          console.log(deadline instanceof IdleDeadline); // true
+	*      });
+	*/
+	global.IdleDeadline = function IdleDeadline() {
+		if (!allowIdleDeadlineConstructor) {
+			throw new TypeError('Illegal constructor');
+		}
+	};
+
+	Object.defineProperty(global.IdleDeadline.prototype, 'timeRemaining', {
+		value: function() {
+			throw new TypeError('Illegal invocation');
+		}
+	});
+
+	if (Object.prototype.hasOwnProperty.call(Object.prototype, '__defineGetter__')) {
+		Object.defineProperty(global.IdleDeadline.prototype, 'didTimeout', {
+			get: function () {
+				throw new TypeError('Illegal invocation');
+			}
+		});
+	} else {
+		Object.defineProperty(global.IdleDeadline.prototype, 'didTimeout', {
+			value: undefined
+		});
+	}
+
+}(self));
+
+}
+
+})
+('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
+</script></head><body><div id="appMountPoint"><div><div class="netflix-sans-font-loaded"><div data-uia="loc" lang="nl" dir="ltr"><style data-emotion="default-ltr-iqcdef-cache-global xj41n9">@font-face{font-family:"Netflix Sans Variable";src:url("fonts/netflix-sans-core-variable-full.woff2") format("woff2"),local("Helvetica Neue"),local("Segoe UI"),local("Roboto"),local("Ubuntu");unicode-range:U+0000,U+000D,U+0020-007E,U+00A0-017F,U+0181,U+0186,U+0189-018A,U+018E-0192,U+0194,U+0196-0199,U+019D-01A3,U+01AF-01B9,U+01C0-01C3,U+01CD-01DD,U+01E4-01EB,U+01EE-01F0,U+01F4-01F5,U+01F8-01FF,U+0218-021B,U+021E-0220,U+0226-0227,U+022E-022F,U+0232-0233,U+0237,U+0241-0242,U+0244,U+0248-0249,U+024C-024D,U+0250-0251,U+0253-0254,U+0256-0259,U+025B,U+025F,U+0261,U+0263,U+0268-026A,U+0272,U+0275,U+027D,U+0283,U+0289-028B,U+0292,U+0294,U+02B7,U+02B9,U+02BB-02BC,U+02BE-02BF,U+02C6-02CB,U+02D8-02DD,U+0300-0304,U+0306-030D,U+0312,U+0315,U+031B,U+0323,U+0326-0329,U+032D-032E,U+0331,U+0338,U+0344,U+0358,U+0374-0375,U+037E,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03CE,U+0400-045F,U+0490-0493,U+0496-0497,U+049A-049B,U+04A2-04A3,U+04AE-04B3,U+04B6-04B7,U+04BA-04BB,U+04C0,U+04CF,U+04D4-04D5,U+04D8-04D9,U+04E2-04E3,U+04E8-04E9,U+04EE-04EF,U+058F,U+060B,U+0E3F,U+1DC6-1DC7,U+1E04-1E07,U+1E0C-1E13,U+1E18-1E19,U+1E20-1E25,U+1E28-1E2B,U+1E32-1E37,U+1E3A-1E3F,U+1E42-1E4B,U+1E5A-1E5B,U+1E5E-1E5F,U+1E62-1E63,U+1E6C-1E71,U+1E76-1E77,U+1E7C-1E85,U+1E88-1E89,U+1E92-1E96,U+1E9E,U+1EA0-1EF9,U+2000-200B,U+2010-2027,U+2030-203E,U+2044,U+2070,U+2074-208E,U+20A1-20A4,U+20A6-20AF,U+20B1-20B2,U+20B4-20B5,U+20B8-20BA,U+20BC-20BF,U+2103,U+2105,U+2109,U+2113,U+2116-2117,U+2120-2122,U+2126,U+212E,U+2153-215E,U+2190-2199,U+21A8,U+21B8-21B9,U+21D2,U+21D4,U+21E7,U+2202,U+2206,U+220F,U+2211-2212,U+2215,U+2219-221A,U+221E-2220,U+2229,U+222B,U+2248,U+2260-2261,U+2264-2265,U+2302,U+2310,U+2320-2321,U+2500,U+2502,U+250C,U+2510,U+2514,U+2518,U+251C,U+2524,U+252C,U+2534,U+253C,U+2550-256C,U+2580,U+2584,U+2588,U+258C,U+2590-2593,U+25A0-25A1,U+25AA-25AC,U+25B2-25B3,U+25B6-25B7,U+25BA,U+25BC-25BD,U+25C0-25C1,U+25C4,U+25C6-25CB,U+25CE-25D1,U+25D8-25D9,U+25E2-25E6,U+25EF,U+2605-2606,U+2609,U+260E-260F,U+261C,U+261E,U+263A-263D,U+2640-2642,U+2660-2661,U+2663-266D,U+266F,U+2C64,U+2E3A,U+A78B-A78C,U+A790-A791,U+FB00-FB04,U+FE45-FE46,U+FEFF,U+FFFD;font-weight:100 900;font-stretch:50% 125%;font-display:swap;}@font-face{font-family:"Netflix Sans Variable";src:url("fonts/netflix-sans-arabic-variable-subset.woff2") format("woff2"),local("Helvetica Neue"),local("Segoe UI"),local("Roboto"),local("Ubuntu");unicode-range:U+060C,U+0615,U+061B,U+061F,U+0621-063A,U+0640-0656,U+0658-065B,U+0660-0671,U+0679,U+067C,U+067E,U+0681,U+0685-0686,U+0688-0689,U+0691-0696,U+0698,U+069A,U+06A0-06A1,U+06A4-06A5,U+06A8-06A9,U+06AB,U+06AD,U+06AF,U+06B5-06B6,U+06BA,U+06BC-06BE,U+06C0-06C3,U+06C6-06C9,U+06CB-06D5,U+06F0-06F9,U+0762-0763,U+200C-200F,U+202A-202E,U+25CC,U+274A,U+FB50-FB51,U+FB56-FB59,U+FB66-FB6D,U+FB7A-FB7D,U+FB88-FB95,U+FB9E-FB9F,U+FBA4-FBB1,U+FBD3-FBDC,U+FBDE-FBDF,U+FBE2-FBE9,U+FBFC-FBFF,U+FC5E-FC63,U+FDF2,U+FE80-FEFC;font-weight:100 900;font-stretch:50% 125%;font-display:swap;}@font-face{font-family:"Netflix Sans Variable";src:url("fonts/netflix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="rootaws" group-title="" tvg-name=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHfrAigET0ke6Gk0LhBrwV2UrBlsVFJfWvfjjNkkCiu4C2sljtbiFd0JD&s=10",
 http://up.kiwi:80/19998899924/34939156
